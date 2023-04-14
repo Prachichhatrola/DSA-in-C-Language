@@ -3,7 +3,7 @@
 
 struct Node{
     int data;
-    struct Node * next;
+    struct Node * next
 };
 
 void linkedListTraversal(struct Node * ptr){
