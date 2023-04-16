@@ -2,7 +2,7 @@
 #include <string.h>
 #define MAX 100
 
-int top=-1
+int top=-1;
 int item;
 
 char stack_string[MAX];
